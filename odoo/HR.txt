@@ -1,0 +1,21 @@
+odoo HR Management
+
+recruitment
+attendance
+payrol
+
+penjelasan:
+1. recuritment:
+ 1. Buat/create job position untuk di publish di website
+ 2. Aplicants kirim cv dari form di website, kemudian masuk ke aplikasi odoo
+ 3. HR cek system dan melakukan interview (1,2)
+ 4. diterima bekerja, dan buat contract serta create jadi employee
+ 5. setelah jadi emloyee, button attendance, salary, dll yang berhubungan dengan
+ 6. employee akan muncul di form employee yang baru diterima dan create employee.
+
+2.Attendance : absensi kehadiran kerja dari karyawan
+
+3. Payrol : penggajian
+
+4. Leave : cuti
+ 
